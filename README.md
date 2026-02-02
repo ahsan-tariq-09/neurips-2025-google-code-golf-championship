@@ -34,11 +34,3 @@ Character counts are verified before submission
 
 Creativity > verbosity
 
-🌟 Acknowledgments
-
-NeurIPS 2025
- organizers for hosting this awesome event
-
-Google for making us rethink what’s possible with too little code
-
-All fellow competitors — may the shortest code win!
